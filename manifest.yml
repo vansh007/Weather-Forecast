@@ -1,0 +1,10 @@
+applications:
+- path: target/JavaDBApp.war
+  memory: 512M
+  instances: 1
+  domain: mybluemix.net
+  name: cmpe272-16
+  host: cmpe272-16
+  disk_quota: 1024M
+  services:
+  - cmpe272-16-sqldb

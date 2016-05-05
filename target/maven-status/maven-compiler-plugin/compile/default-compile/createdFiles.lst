@@ -1,0 +1,12 @@
+example\db\DBConnect.class
+example\jpa\TODOListResource.class
+example\pojo\Day.class
+example\jpa\HelloResource.class
+example\pojo\MyPojo.class
+example\pojo\Forecasts.class
+example\jpa\TODOServletConextListener.class
+example\jpa\TODO.class
+example\pojo\Night.class
+example\servlet\SimpleServlet.class
+example\db\WeatherData.class
+example\pojo\Metadata.class
